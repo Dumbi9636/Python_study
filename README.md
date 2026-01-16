@@ -1,11 +1,7 @@
 # Python Study
 
-Python basic syntax and examples for learning purposes.
+AI/LLM 기능을 Java Spring 기반 서비스에 연동하기 위한 기초 역량 강화를 목적으로,
+Python 문법과 기본 예제들을 학습하며 정리한 저장소입니다.
 
-## Contents
-- variables
-- formatting
-- control statements
-- functions
-
-This repository contains small practice codes while learning Python.
+Python을 주력 언어로 사용하기보다는,
+AI 관련 기술을 이해하고 활용하기 위한 보조 역량으로 학습하고 있습니다.
